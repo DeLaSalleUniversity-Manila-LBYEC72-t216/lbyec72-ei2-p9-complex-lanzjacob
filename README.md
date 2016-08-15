@@ -1,4 +1,4 @@
-# Activity #8: Structures, Structure Arrays, and Complex Data Types 
+# Activity #9: Structures, Structure Pointers, and Passing of Structure Reference to Functions 
 
 ###PROGRAM SCREENSHOTS
 ![](1.PNG)
@@ -25,12 +25,14 @@
 ![](22.PNG)
 ![](23.PNG)
 ![](24.PNG)
-![](24.PNG)
-![](24.PNG)
-![](24.PNG)
-![](24.PNG)
-![](24.PNG)
-![](24.PNG)
-![](24.PNG)
-![](24.PNG)
-![](24.PNG)
+![](25.PNG)
+![](26.PNG)
+![](27.PNG)
+![](28.PNG)
+![](29.PNG)
+![](30.PNG)
+![](31.PNG)
+![](32.PNG)
+![](33.PNG)
+![](34.PNG)
+![](35.PNG)
